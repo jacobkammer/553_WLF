@@ -1,1 +1,3 @@
-This is a resository for WLF 553 project
+This is a resository for WLF 553 project.
+Date created: 2024-08-20
+Date modified: 2025-09-03
