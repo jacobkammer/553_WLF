@@ -8,5 +8,5 @@ Raw_data/
 *.jpg
 *.tiff
 *.tif
-*.db
+dragons.db
 *.Rproj
