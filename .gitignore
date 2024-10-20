@@ -8,3 +8,5 @@ Raw_data/
 *.jpg
 *.tiff
 *.tif
+*.db
+*.Rproj
